@@ -6,5 +6,5 @@ I'm Alex Wilcox, and I am a student at Northeastern University in Boston pursuin
 
 ### Contact Me 📫
 
-- <ins>Email:</ins> alexander.w.wilcox [at] gmail.com
+- <ins>Email:</ins> alexander.w.wilcox [at] gmail [dot] com
 - <ins>LinkedIn:</ins> https://www.linkedin.com/in/alexww/
